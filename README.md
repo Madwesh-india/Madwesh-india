@@ -67,7 +67,7 @@ Jupyter-based bilingual audio recording tool using PyAudio and ipywidgets. Desig
 ## 📫 Contact
 
 - 📧 Email: madweshjd@gmail.com  
-- 🔗 LinkedIn: [www.linkedin.com/in/madwesh-j-devadiga](www.linkedin.com/in/madwesh-j-devadiga) *(Update this if placeholder)*  
+- 🔗 LinkedIn: [madwesh-j-devadiga](https://www.linkedin.com/in/madwesh-j-devadiga)
 
 ---
 
