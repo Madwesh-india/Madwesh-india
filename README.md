@@ -26,9 +26,8 @@ Automates micro-ROS project generation for ESP32 using ESP-IDF. Includes support
 ### 🔹 [ROS2_Basics](https://github.com/Madwesh-india/ROS2_Basics)  
 Beginner-to-advanced tutorials for ROS 2 Humble with step-by-step examples, cheat sheets, and command references.
 
-### 🔹 [AudioCollector](https://github.com/Madwesh-india/AudioCollector)  
-Jupyter-based bilingual audio recording tool using PyAudio and ipywidgets. Designed for low-resource speech dataset collection.
-
+### 🔹 [microros_projects](https://github.com/Madwesh-india/microros_projects).
+A collection of micro-ROS-based Arduino/ESP32 projects for robotic systems
 ---
 
 ## 🧰 Technical Proficiencies
